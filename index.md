@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 《Effective DevOps 中文版》書籍勘誤對照表
 
-You can use the [editor on GitHub](https://github.com/theqwan-chengwei/Errata-for-Effective-DevOps/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+感謝您購買《Effective DevOps 中文版》，縱然在書籍出版過程中，譯稿已被多雙眼睛校對、覆閱，但相信本書依然可能會有錯譯及翻譯不佳之處。如果對於本書翻譯有任何的建議，還請各位讀者務必透過 [https://effectivedevops.tw](https://effectivedevops.tw) 回報讓我知道，感謝大家的指教，我將根據收到的回報盡快更新這份「書籍勘誤對照表」。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 勘誤對照表
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+頁數與位置          |  原句 | 修正 | 理由
+:-------------------|:---------------------------------------|:---------------------------------|:------------------------
+P.38 最後一行       | 以及讓 Project Owner 及專案的其他相關人員 | Project Owner 應為 Product Owner | 來自敏捷社群的回報，本節的內容為 Scrum 簡介，根據前後文此處應該是指 Product Owner 而非 Project Owner，可能從英文版就已 TYPO。
+P.95 第四段之第三行 | 這是基於普度大學（Purdue University） | 普度大學 應為 普渡大學 | Purdue University 常見譯為「普渡大學」
 
-```markdown
-Syntax highlighted code block
+------
 
-# Header 1
-## Header 2
-### Header 3
+如您對於 DevOps 的相關主題有興趣，歡迎加入 [DevOps Taiwan 社群](https://devopstw.club)，與社群夥伴們一起分享、交流！
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theqwan-chengwei/Errata-for-Effective-DevOps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
