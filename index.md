@@ -9,6 +9,8 @@
 :-------------------|:---------------------------------------|:---------------------------------|:------------------------
 P.38 最後一行       | 以及讓 Project Owner 及專案的其他相關人員 | Project Owner 應為 Product Owner | 來自敏捷社群的回報，本節的內容為 Scrum 簡介，根據前後文此處應該是指 Product Owner 而非 Project Owner，可能從英文版就已 TYPO。
 P.95 第四段之第三行 | 這是基於普度大學（Purdue University） | 普度大學 應為 普渡大學 | Purdue University 常見譯為「普渡大學」
+P.278 倒數第三行 | 群體思考（groupthink） | groupthink 應譯為「團體迷思」、「群體迷思」或「集體迷思」| 此為一種心理學現象，可參閱 [Wiki](https://zh.wikipedia.org/zh-tw/%E5%9C%98%E9%AB%94%E8%BF%B7%E6%80%9D)
+P.279 第三段之第二行 | Zappos 採用的零管理政策（Holacracy） | Holacracy 常見亦被譯為「全體共治」、「合弄制」或「無領導管理」 | 目前未有統一的中文翻譯。補充說明，三采文化已於2016/5/6出版了[《Holacracy: The New Management System for a Rapidly Changing World》的中譯本](https://www.suncolor.com.tw/BookPage.aspx?bokno=109010101037)，即是譯為「全體共治」。
 
 ------
 
