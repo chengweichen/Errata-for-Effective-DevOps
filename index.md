@@ -4,6 +4,11 @@
 
 ### 勘誤對照表
 
+* **前言 P.xxv 第三行**
+  * **原句**：賦予 effectivr devops 力量的原因之一。
+  * **修正**：賦予 effective devops 力量的原因之一。
+  * **理由**：TYPO。
+
 * **P.38 最後一行**
   * **原句**：以及讓 Project Owner 及專案的其他相關人員
   * **修正**：Project Owner 應為 Product Owner 
