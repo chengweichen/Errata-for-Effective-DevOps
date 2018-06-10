@@ -32,5 +32,22 @@
 
 ------
 
+## 《Effective DevOps 中文版》延伸閱讀
+
+在《Effective DevOps 中文版》中提及很多非 IT、軟體領域的知識，其中有很多知識目前皆已有更多延伸的參考資料可以閱讀，如果您有看見任何值得推薦的延伸閱讀資料，也歡迎提供，讓我能一併條例於此，謝謝！
+
+* **心流（Flow）**
+  * [《快樂，從心開始》](https://bookzone.cwgv.com.tw/books/details/BBP026X)，天下文化（已絕版）
+  * [TED: Flow , the secret to happiness. Mihaly Csikszentmihalyi](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow?language=zh-tw)
+  * 《心流:最优体验心理学》（簡體中文），中信出版社
+  * 《发现心流:日常生活中的最优体验》（簡體中文），中信出版社
+
+* **成長型思維（growth mindsets）與固定型思維（fixed mindsets）**
+  * [《心態致勝：全新成功心理學》](https://bookzone.cwgv.com.tw/books/details/BCB608)，天下文化
+  * [TED: The power of believing that you can improve. Darol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=zh-tw)
+  
+
+------
+
 如您對於 DevOps 的相關主題有興趣，歡迎加入 [DevOps Taiwan 社群](https://devopstw.club)，與社群夥伴們一起分享、交流！
 
