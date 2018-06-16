@@ -43,14 +43,17 @@
   * [《发现心流:日常生活中的最优体验》](https://www.amazon.cn/dp/B078B3YC8Q)（簡體中文，原文書名 Finding flow: the psychology of engagement with everyday life），中信出版社
 
 * **成長型思維（Growth Mindsets）與固定型思維（Fixed Mindsets）**
-  * [《心態致勝：全新成功心理學》（原文書名 Mindset: The New Psychology of Success）](https://bookzone.cwgv.com.tw/books/details/BCB608)，天下文化
+  * [《心態致勝：全新成功心理學》](https://bookzone.cwgv.com.tw/books/details/BCB608)（原文書名 Mindset: The New Psychology of Success），天下文化
   * [TED: The power of believing that you can improve. Darol Dweck](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=zh-tw)
+
+* **零管理政策（Holacracy）**
+  * [《無主管公司》](https://www.suncolor.com.tw/BookPage.aspx?bokno=109010101037)（原文書名 Holacracy: The New Management System for a Rapidly Changing World），三采文化
 
 * **無意識偏見（Unconscious Bias）**
   * [《决策与判断-走出无意识偏见的心理误区》](http://www.crup.com.cn/Book/Detail?doi=899497cf-b134-4782-b763-f74da8417ce8&urltype=0)（簡體中文，原文書名 The Secret Life of Decisions: How Unconscious Bias Subverts Your Judgement），中国人民大学出版社
 
 * **穀倉效應（Silo Effect）**
-  * [《穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？》](https://www.suncolor.com.tw/BookPage.aspx?bokno=109010101035)
+  * [《穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？》](https://www.suncolor.com.tw/BookPage.aspx?bokno=109010101035)（原文書名 The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers），三采文化
 
 
 ------
