@@ -39,7 +39,7 @@
 * **多樣性、多元化（Diversity）**
   * [mckinsey.com｜Why diversity matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)
   * [mckinsey.com｜Delivering through Diversity (PDF)](https://www.mckinsey.com/~/media/mckinsey/business%20functions/organization/our%20insights/delivering%20through%20diversity/delivering-through-diversity_full-report.ashx)
-  * [《梅迪奇效應：跨界思考的技術，改變世界的力量》(http://www.cite.com.tw/book?id=76797)，商周出版
+  * [《梅迪奇效應：跨界思考的技術，改變世界的力量》](http://www.cite.com.tw/book?id=76797)，商周出版
 
 * **心流（Flow）**
   * [《快樂，從心開始》](https://bookzone.cwgv.com.tw/books/details/BBP026X)，天下文化（已絕版）
