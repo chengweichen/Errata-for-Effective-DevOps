@@ -36,6 +36,11 @@
 
 在《Effective DevOps 中文版》中提及很多非 IT、軟體領域的知識，其中有很多知識目前皆已有更多延伸的參考資料可以閱讀，如果您有看見任何值得推薦的延伸閱讀資料，也歡迎提供，讓我能一併條例於此，謝謝！
 
+* **多樣性、多元化（Diversity）**
+  * [mckinsey.com｜Why diversity matters](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters)
+  * [mckinsey.com｜Delivering through Diversity (PDF)](https://www.mckinsey.com/~/media/mckinsey/business%20functions/organization/our%20insights/delivering%20through%20diversity/delivering-through-diversity_full-report.ashx)
+  * [《梅迪奇效應：跨界思考的技術，改變世界的力量》(http://www.cite.com.tw/book?id=76797)，商周出版
+
 * **心流（Flow）**
   * [《快樂，從心開始》](https://bookzone.cwgv.com.tw/books/details/BBP026X)，天下文化（已絕版）
   * [TED: Flow , the secret to happiness. Mihaly Csikszentmihalyi](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow?language=zh-tw)
@@ -54,6 +59,11 @@
 
 * **穀倉效應（Silo Effect）**
   * [《穀倉效應：為什麼分工反而造成個人失去競爭力、企業崩壞、政府無能、經濟失控？》](https://www.suncolor.com.tw/BookPage.aspx?bokno=109010101035)（原文書名 The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers），三采文化
+
+* **強連結與弱連接（Strong Ties and Weak Ties）**
+  * [《超級關係》](http://www.readingtimes.com.tw/ReadingTimes/ProductPage.aspx?gp=productdetail&cid=rtbe(SellItems)&id=BE0178&code=auto)（原文書名 Superconnect），時報文化
+  * [TED: Why we need strangeness. Maria Bezaitis](https://www.ted.com/talks/maria_bezaitis_the_surprising_need_for_strangeness/transcript)
+  * [論文：《The Strength of Weak Ties》](https://www.jstor.org/stable/2776392?seq=1#page_scan_tab_contents)
 
 
 ------
